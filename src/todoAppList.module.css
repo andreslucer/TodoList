@@ -1,0 +1,19 @@
+.todoAppList{
+    
+    text-align: center;
+    
+    color: blue;
+    transition: color .5s
+}
+
+.todoAppList:hover{
+    text-align: center;
+    
+    color: red;
+    cursor: pointer;
+}
+
+.designedBy{
+ color: blue;
+ text-align: center;
+}
